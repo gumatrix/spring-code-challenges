@@ -36,3 +36,11 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/spring-code-challenges
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3161306/3161306-1645727212219-16x9.jpg
+
+
+## Developer Notes
+
+* http://localhost:8080/actuator
+* http://localhost:8080/actuator/health
+* http://localhost:8080/actuator/catering-jobs
+* https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle
